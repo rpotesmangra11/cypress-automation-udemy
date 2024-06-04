@@ -1,0 +1,22 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "Cypress Project Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "reporting": "npx cypress run --spec cypress/e2e/practice/POM_framework/login-test-demo-spec.cy.js --headed --browser chrome",
+    "cloud_command": "npx cypress run --record --key 54825603-513f-45a3-a38e-ed509611bce6 --spec cypress/e2e/practice/cloud_reporting/*.cy.js --headed --browser chrome",
+    "env_demo": "npx cypress run --env username=potesmangrar11@gmail.com,password=Soccer@199008 --spec cypress/e2e/advanced/environment-variable-spec.cy.js --headed --browser chrome",
+    "env_demo_process": "npx cypress run --env username=$APP_USERNAME,password=$PASSWORD --spec cypress/e2e/advanced/environment-variable-spec.cy.js --headed --browser chrome"
+  },
+  "author": "RPM",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.10.0",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "typescript": "^5.4.5",
+    "xpath_cypress": "^1.0.2"
+  }
+}
+

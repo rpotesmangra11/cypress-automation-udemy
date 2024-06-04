@@ -1,0 +1,16 @@
+{
+    "testid1": {
+      "username": "test@email.com",
+      "password": "abcabc"
+    },
+  
+    "testid2": {
+        "username": "{backspace}",
+        "password": "abc"
+    },
+    
+    "testid3": {
+        "username": "test@email.com",
+        "password": "abc"
+    }
+  }
