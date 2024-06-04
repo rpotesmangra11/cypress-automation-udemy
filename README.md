@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This is all my course work from the udemy course. 
+This repo is all of my course work from the udemy course. 
 
 ## Course completion certificate can be found here:
 
