@@ -25,12 +25,6 @@ https://www.udemy.com/certificate/UC-963f6114-e6a7-4140-b88b-6a9016174d38/
 12. **GitHub Integration**
 13. **Jenkins CI/CD**
 
-## What I learned
 
-- **Automation Frameworks**: Explain, design, and implement structured automation frameworks using Cypress.
-- **Cypress Challenges**: In-depth understanding of real-time examples and solutions.
-- **Continuous Integration**: Implement CI testing using Jenkins.
-- **Debugging**: Learn debugging tricks using screenshots and videos.
-- **Advanced Reporting**: Create comprehensive reports with the Cypress Cloud reporting tools and MochaAwesome.
 
 
