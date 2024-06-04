@@ -3,9 +3,7 @@
 
 ## Introduction
 
-This repo is all of my coursework from the udemy course containing: 
-Lectures: 95  
-Videos: 14.5 total hours
+This repo is all of my coursework from the udemy course containing 95 lectures and 14.5 hours of content.
 
 ## Course completion certificate can be found here:
 
